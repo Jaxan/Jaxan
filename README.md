@@ -1,16 +1,14 @@
-## Hi there 👋
+## Joshua's profile page 🥳
 
-<!--
-**Jaxan/Jaxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an assistant professor at the [Open Universiteit](https://www.ou.nl/)
+in the Netherlands.
 
-Here are some ideas to get you started:
+I have started to move some of my personal repositories away from GitHub.
+You'll find them on my own forgejo instance, the link can be found on my
+[personal website ✅](https://joshuamoerman.nl).
+I have a [Codeberg profile ⛰](https://codeberg.org/Jaxan) also.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work-related repositories can be found on the various insitute websites:
+- [🎓 2015-2019 Radboud](https://gitlab.science.ru.nl/moerman)
+- [🧑‍🔬 2019-2021 RWTH](https://git.rwth-aachen.de/joshua)
+- [🧑‍🏫 2021-onwards OU](https://git.cs.ou.nl/joshua.moerman)
